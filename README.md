@@ -9,13 +9,14 @@ You can use Dark mode on this theme.
  
 # Demo-Picture:
 [Demo page](https://majidalinejad.github.io/Nozha-Dashboard/)
-you can see Persian screenshot below.
+admin panel with doc
 ***
 ![picture](img/screen.jpg)
 ***
 
 # Farsi Demo-Picture:
 [Demo page](https://majidalinejad.github.io/Nozha-Dashboard/fa.html)
+پنل ادمین فارسی به همراه داکیومنت
 ***
 ![picture](img/screen-fa.jpg)
 
