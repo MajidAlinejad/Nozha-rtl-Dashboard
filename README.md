@@ -16,10 +16,12 @@ You can use Dark mode on this theme.
 ![picture](img/screen-fa.jpg)
 
 # Scripts included:
-Bootstrap
-Font Awesome
-Charts.js
-jQuery
+- Bootstrap
+- Font Awesome
+- Charts.js
+- jQuery
+   
+#^ two spaces
 
 # License information:
 Nozha is licensed under OpenSource. Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
