@@ -15,6 +15,8 @@ you can see Persian screenshot below.
 ***
 
 # Farsi Demo-Picture:
+[Demo page](https://majidalinejad.github.io/Nozha-Dashboard/fa.html)
+***
 ![picture](img/screen-fa.jpg)
 
 # Scripts included:
