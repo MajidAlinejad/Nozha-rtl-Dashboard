@@ -5,12 +5,14 @@ Nozha Admin Panel is a free to use Bootstrap admin template. This template uses 
 its support Rtl language like persian, arabic and etc .
 You can use Dark mode on this theme.
 
-see Persian Screen shot in below.
+
  
 # Demo-Picture:
 [Demo page](https://majidalinejad.github.io/Nozha-Dashboard/)
+you can see Persian screenshot below.
+***
 ![picture](img/screen.jpg)
-
+***
 
 # Farsi Demo-Picture:
 ![picture](img/screen-fa.jpg)
