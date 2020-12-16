@@ -8,14 +8,14 @@ You can use Dark mode on this theme.
 
  
 # Demo-Picture:
-[Demo page](https://majidalinejad.github.io/Nozha-Dashboard/)
+[Demo page](https://majidalinejad.github.io/Nozha-rtl-Dashboard/)
 admin panel with doc
 ***
 ![picture](img/screen.jpg)
 ***
 
 # Farsi Demo-Picture:
-[Demo page](https://majidalinejad.github.io/Nozha-Dashboard/fa.html)
+[Demo page](https://majidalinejad.github.io/Nozha-rtl-Dashboard/fa.html)
 پنل ادمین فارسی به همراه داکیومنت
 ***
 ![picture](img/screen-fa.jpg)
