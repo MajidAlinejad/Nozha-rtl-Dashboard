@@ -199,6 +199,10 @@ h6 {
   transition-duration: 0.2s;
 }
 
+.container-fluid{
+  height: calc(100vh - 90px);
+}
+
 .avam-container.bmd-drawer-in::before {
   content: '';
   width: 240px;
